@@ -1,0 +1,26 @@
+/* the old way of doing horizontal layout */
+/* li {
+    display: inline; 
+} */
+
+/* the modern way of doing horizontal layouts */
+
+ul {
+    display: flex;
+    flex-direction: row;  /* by default, display: flex has flex direction row */
+    list-style: none;
+    gap: 16px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+        cursor: pointer;
+}
