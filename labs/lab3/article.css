@@ -1,0 +1,49 @@
+nav ul{
+    display: flex;
+    gap: 1.5rem;
+}
+
+footer nav{
+    background-color: white;
+    gap: 1.5rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    color: #073164;
+}
+
+time{
+    color: #aaa;
+}
+
+main{
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+
+button.img{
+    width: 2rem;
+    height: 2rem;
+}
+
+#next-article::before{
+    margin-right: 0.5rem;
+    content: ".";
+}
+
+::selection{
+    background-color: #54a0ff;
+    color: black;
+}
+
+a.secondary{
+    color: #aaa;
+}
+
+a.primary{
+    color: #54a0ff;
+}
