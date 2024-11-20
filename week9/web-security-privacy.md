@@ -87,6 +87,23 @@
     - Communication is done securely using that key
     (symmetric key encryption)
         - Key is only used for this particular session
+- Secure Socket Layer (SSL)
+    - a protocol that allows data to be privateley exchanged over the public networks
+    - developed by Netscape
+    - encrypts data sent between a client and a web server
+    - utilizes both symmetric and asymmetric keys
+    - "https" is http over SLL
+    - browsers display a lock icon
+    - SSL provides secure communication between
+    a client and server by using:
+        - Server and client digital certificates for
+        authentication
+        - Symmetric-key cryptography using a "session key"
+        for bulk encryption
+        - Public-key cryptography for transfer of the session key
+- certificate authority 
+    - a trusted third-party organization or company that issued digital certificates
+
 
 ## Privacy
 - cookies
@@ -101,6 +118,29 @@
         - Better user experience
         - Ad tracking
         - Site metrics
+- Data Collection: Behavior Logging
+    - Any action a user takes on a webpage can be logged
+    - HTML event listeners!
+        - Clicks
+        - Hovers
+    - Time between actions
+        - How long you spend looking at a post
+        - Did you skip an ad? At what point in the ad?
+- Data Applications: Search
+    - Improve results
+        - Did the user click a link?
+            -  Was it the top result?
+        - Did the user need to write another query?
+    - Predictive suggestions
+    - PageRank
+    - Natural language processing
+- Data Applications: Drive a metric
+    - Optimize a webpage’s behavior for something that can be quantitatively measured
+        - Iterative UI improvements
+            - Email client: decrease time to reply to emails
+            - Increase engagement with a feature that generates more user data
+            - Increase behavior that fits more profitable business model
+    -  A/B testing
 - privacy policy
     - Statement saying what the web site does with
     any information it collects
@@ -111,3 +151,5 @@
         - Different lands have different laws
     - Written in dense legal language
     - Users may or may not pay attention 
+
+
