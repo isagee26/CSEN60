@@ -26,4 +26,37 @@
 - google, trial and error are method's to solutions
 - could be more specific on challenges
 
+## Nike
+- explained tailwind css
+- next.js
+- pages
+    - home page
+    - cart pages
+- using tailwind for the first time then learning to use syntax
+- styling cart page took lots of hours
+- database
+
+## Reddit
+- very clear on their solutions to their challenges
+- pages
+    - home page
+    - post page
+- functionalities 
+    - clickable buttons
+    - toggable nav bar
+    - upvote/downvote
+
+## Smolarski
+- redesigned professor's webpage which used to be all HTML
+- functionalities
+    - pop ups
+    - advanced accordion
+    - search feature
+- attention to margin use
+- nielsen heuristics
+- organized pull requests
+- can read in dark mode
+- css media tag for accessibility 
+
+
 
