@@ -58,5 +58,17 @@
 - can read in dark mode
 - css media tag for accessibility 
 
+## Pinterest
+- pages
+    - profile page
+    - all pins page
+    - specific pin page
+- used the box method to make things organized
+- cookie local storage
+- css
+    - fixing positioning
+- learned about stack overflow forums
+
+
 
 
